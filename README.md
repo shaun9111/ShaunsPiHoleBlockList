@@ -6,7 +6,15 @@
 ---
 
 ## 🎯 Purpose
-ShaunsPiHoleBlockList is a curated DNS blocklist focused on eliminating ads, trackers, analytics beacons, and anti‑adblock detection systems across your entire network. It is designed for Pi‑hole, AdGuard Home, and any DNS filtering system that accepts plain‑text domain lists.
+This blocklist is designed to complement—not replace—other well‑maintained and widely trusted ad‑blocking lists. For best results, use it alongside popular community lists such as:
+
+- **StevenBlack Unified Hosts** — https://github.com/StevenBlack/hosts  
+- **OISD Blocklist** — https://oisd.nl  
+- **Energized Protection** — https://energized.pro  
+- **AdGuard DNS Filter** — https://github.com/AdguardTeam/AdGuardSDNSFilter  
+- **uBlock Origin Filters** — https://github.com/uBlockOrigin/uAssets  
+
+These lists provide broad coverage, while ShaunsPiHoleBlockList focuses specifically on analytics, tracking, and anti‑adblock detection domains.
 
 This list targets:
 - Ad Networks such as Google Ads, DoubleClick, and Meta Ads.

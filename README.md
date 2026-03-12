@@ -9,8 +9,7 @@
 This blocklist is designed to complement—not replace—other well‑maintained and widely trusted ad‑blocking lists. For best results, use it alongside popular community lists such as:
 
 - **StevenBlack Unified Hosts** — https://github.com/StevenBlack/hosts  
-- **OISD Blocklist** — https://oisd.nl  
-- **Energized Protection** — https://energized.pro  
+- **OISD Blocklist** — https://oisd.nl    
 - **AdGuard DNS Filter** — https://github.com/AdguardTeam/AdGuardSDNSFilter  
 - **uBlock Origin Filters** — https://github.com/uBlockOrigin/uAssets  
 

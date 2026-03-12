@@ -1,3 +1,4 @@
+![ShaunsPiHoleBlockList Banner](https://github.com/shaun9111/ShaunsPiHoleBlockList/blob/main/banner.jpg)
 
 # 🌐 ShaunsPiHoleBlockList
 ### <span style="color:#4CAF50;">Created & Maintained by</span> shaun9111

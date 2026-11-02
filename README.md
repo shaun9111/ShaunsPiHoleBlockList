@@ -1,4 +1,4 @@
-![ShaunsPiHoleBlockList Banner](https://github.com/shaun9111/ShaunsPiHoleBlockList/blob/main/banner.jpg)
+![ShaunsPiHoleBlockList Banner](https://raw.githubusercontent.com/shaun9111/ShaunsPiHoleBlockList/main/banner.jpg)
 
 # 🌐 ShaunsPiHoleBlockList
 ### <span style="color:#4CAF50;">Created & Maintained by</span> shaun9111
@@ -26,9 +26,13 @@ This list targets:
 Paste this URL directly into Pi‑hole under:
 Group Management → Adlists → Add a new adlist
 
-https://github.com/shaun9111/ShaunsPiHoleBlockList/blob/main/app-analytics-ADS.txt
+https://raw.githubusercontent.com/shaun9111/ShaunsPiHoleBlockList/main/app-analytics-ADS.txt
 
 ## 📁 How to Use This Blocklist
+
+An additional vendor-specific list is available here:
+
+https://raw.githubusercontent.com/shaun9111/ShaunsPiHoleBlockList/main/HIK.txt
 
 ### Pi‑hole
 1. Copy the blocklist URL from the section above.  
@@ -69,4 +73,4 @@ Open an issue or submit a pull request to help strengthen the list.
 ---
 
 ## 📜 License
-Released under the MIT License — free to use
+Released under the [MIT License](./LICENSE) — free to use.

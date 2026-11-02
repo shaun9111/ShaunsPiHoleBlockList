@@ -17,7 +17,6 @@ adblocker-detect.com
 adblockerblocker.com
 adblockerblocker.org
 adblockerblocker.net
-adblockerblocker.com
 adblockerblocker.io
 adblockerblocker.info
 adblockerblocker.tech
@@ -50,8 +49,6 @@ adblockerblocker.solutions
 adblockerblocker.support
 adblockerblocker.tools
 adblockerblocker.zone
-adblockerblocker.tech
-adblockerblocker.cloud
 adblockerblocker.host
 adblockerblocker.cdn
 adblockerblocker.cdnjs
